@@ -10,4 +10,4 @@ Aquí encontrarás proyectos organizados por carpetas, que abarcan áreas como:
 
 * **Fundamentos y Lógica:** Scripts sencillos, algoritmos y resolución de problemas.
 * **Proyectos Prácticos:** Pequeñas aplicaciones, automatizaciones y herramientas.
-* **Análisis y Datos:** Ejercicios prácticos con librerías como NumPy, Pandas o Matplotlib (si aplica).
+* **Análisis y Datos:** Ejercicios prácticos con librerías como NumPy, Pandas o Matplotlib.
