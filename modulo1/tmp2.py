@@ -35,3 +35,23 @@ dias = ("lunes", "martes", "miercoles","jueves")
 
 #   --------------------------------------------------------------------
 
+# 3. Dict
+
+persona = {
+    "nombre" : "Carlos",
+    "edad" : 25,
+    "ciudad" : "Lima"
+}
+#   No usamos indices, usamos claves
+print(persona["ciudad"])
+persona["nombre"] = "Miguel"        # SI PODEMOS modificarlo
+persona["profesion"] = "Programador"# Tambien podemos agregar informacion
+
+#   ¿Cuando usar Dict?
+#       Cuando quieres representar informacion mediante caracteristicas(claves)
+#   -> Dict = clave -> valor
+
+#   --------------------------------------------------------------------
+
+# 4. Set
+
