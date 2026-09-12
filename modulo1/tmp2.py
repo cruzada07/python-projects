@@ -55,3 +55,18 @@ persona["profesion"] = "Programador"# Tambien podemos agregar informacion
 
 # 4. Set
 
+numbers = {1,2,3}   # NO permite elementos repetidos
+names = {"Maria", "Marcelo", "Marisol", "Kevin", "Maria", "Marisol", "Raul"}
+unicos = set(names)
+print(names)
+print(unicos)   # Es lo mismo
+
+a = {1,2,3}
+b = {3,4,5}
+print(a | b)    # Union
+print(a & b)    # Interseccion
+print(a - b)    # Diferencia
+
+#   ¿Cuando usar Set?
+#       Cuando vas a agrupar informacion y quieres evitar elementos repetidos
+#   -> Set = Colección de elementos únicos
