@@ -1,3 +1,5 @@
+# sintaxis base
+
 def es_par(a):
     if a%2 == 0:
         return True
